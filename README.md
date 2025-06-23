@@ -1,51 +1,8 @@
 
 <p align="center">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=frnwot&data=followers,repositories,stars,commits&theme=darkmode" alt="Banner frnwot">
-</p>
-<p align="center"><img src="https://github.com/BINOD-XD/BINOD-XD/blob/main/header_.png">
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Wassup+bruh++I'm+frn+aka+Farhan+)](https://git.io/typing-svg)
-<p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
-  
-
-<p align="center"><img src="https://img.shields.io/badge/WE ARE %20BANGLADESHI - PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  
-</h3>
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-<h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71313&width=435&lines=Hey+it's+me+%F0%9F%91%8B+huh%3F)](https://git.io/typing-svg)
-
-</p>
-  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-  
-<div align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>  
-
-<p align="center">
-<a href="https://frnwotD.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
-
-<p align="center">
-
- <img src="https://visitor-badge.feriirawann.repl.co?username=frnwot&repo=frnwot&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
- <a href="https://github.com/frnwot"><img src="https://img.shields.io/github/followers/frnwot?label=followers&style=social"/></a>
-<img src="https://img.shields.io/github/stars/frnwot?label=Stars&style=social" alt="GitHub Badge"> 
-
-<p align='center'><img src="https://komarev.com/ghpvc/?username=frnwot-XD&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="BINOD-XD" />
-<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=frnwot">
-
-
-<p align="center"><img src="https://github.com/frnwot/frnwot/blob/main/giphy.webp">
+<p align="center">Hey there! I'm Farhan, a 17 year backend developer from Chittagong. Currently studying android development& Technology some. Join me in exploring and creating new things in the digital world.</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
