@@ -1,3 +1,6 @@
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=frnwot&data=followers,repositories,stars,commits)](https://github.com/frnwot/github-widgetbox)
+
 <p align="center"><img src="https://github.com/BINOD-XD/BINOD-XD/blob/main/header_.png">
 
 
