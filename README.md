@@ -79,11 +79,9 @@
 
 ---
 
-### 👀 Profile Visitors
+### 👀 Total profile visitors
+[![](https://count.getloli.com/get/@anbuinfosec?theme=rule34)](https://frnwot)
 
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=frnwot&label=Profile%20Views&color=12&icon=1&pretty=false)](https://frnwot.github.io)
-</p>
 
 ---
 
