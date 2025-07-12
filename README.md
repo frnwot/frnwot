@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=frnwot&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats for frnwot" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=frnwot&data=followers,repositories,stars,commits&theme=darkmode&name=frnwot" alt="GitHub Stats for frnwot" />
 </p>
+
 
 <p align="center">
   Hey there! I'm <strong>Farhan</strong>, a 17-year-old backend developer from Chittagong. Currently studying Android development and technology. Join me in exploring and creating new things in the digital world.
